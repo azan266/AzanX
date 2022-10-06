@@ -105,7 +105,7 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin AzanX\033[1;95m♡╰──────────•◈•──────────╯♡"
 
 CorrectUsername = "AzanX"
-CorrectPassword = "lovehacker"
+CorrectPassword = "Alone"
 
 loop = 'true'
 while (loop == 'true'):
